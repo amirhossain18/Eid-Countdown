@@ -1,0 +1,19 @@
+body {
+    color: blue;
+    border: black;
+    margin: opx;
+    margin-top: 71px auto;
+    font-style: oblique;
+    font-size: 30px;
+    padding: 370px;
+    -webkit-box-shadow:inset 50px 70px 80px 10px #DCADFF;
+box-shadow:inset 50px 70px 80px 10px #DCADFF;
+}
+    
+
+
+#one {
+    -webkit-box-shadow:inset 50px 70px 80px 10px #DCADFF;
+    box-shadow:inset 50px 70px 80px 10px #DCADFF;
+
+}
